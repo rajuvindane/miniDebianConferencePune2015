@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://gdg-x.github.io/zeppelin/blog/call-for-papers</loc>
+    <lastmod>2014-07-21T14:30:00+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://gdg-x.github.io/zeppelin/blog/hello-world</loc>
+    <lastmod>2014-07-21T13:30:00+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://gdg-x.github.io/zeppelin/blog/</loc>
+  </url>
+  <url>
+    <loc>https://gdg-x.github.io/zeppelin/cod/</loc>
+  </url>
+  <url>
+    <loc>https://gdg-x.github.io/zeppelin/hackathon/</loc>
+  </url>
+  <url>
+    <loc>https://gdg-x.github.io/zeppelin/</loc>
+  </url>
+  <url>
+    <loc>https://gdg-x.github.io/zeppelin/logistics/</loc>
+  </url>
+  <url>
+    <loc>https://gdg-x.github.io/zeppelin/schedule/</loc>
+  </url>
+  <url>
+    <loc>https://gdg-x.github.io/zeppelin/speakers/</loc>
+  </url>
+  <url>
+    <loc>https://gdg-x.github.io/zeppelin/team/</loc>
+  </url>
+</urlset>
